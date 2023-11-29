@@ -1,4 +1,4 @@
-# react-native-wagmi-charts 💸
+# react-native-wagmi-charts 💸 update
 
 A sweet & simple chart library for React Native that will make us feel like **W**e're **A**ll **G**onna **M**ake **I**t
 
